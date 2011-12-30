@@ -1,1 +1,3 @@
 Software code in eLua that allow Mizar32 to program VGA EEprom.
+
+Do not forget to solder jumper G54 and G55 to connect 24LC512 in VGA board to Mizar32 I2C bus.
